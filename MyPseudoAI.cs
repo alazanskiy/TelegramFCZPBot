@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Runtime;
 using System.Data.SqlClient;
 
-namespace AlazanskiyBot
+namespace AlazanskiyBot //change to use in local debug
 {
     public class QueryHistoryBase
     {
